@@ -43,6 +43,8 @@ ETC
 👨‍💻👩‍💻Github Stats
 <hr>
 
+![creeeeping's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeeeping&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeeeping&layout=compact&theme=dark)
 
 
 
