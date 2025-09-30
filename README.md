@@ -18,6 +18,9 @@
 <br>
 💻 Tech Stack
 <hr>
+I haven't started yet, but I'll fill it up soon.
+<br>
+<br>
 <br>
 Language
 <br>
