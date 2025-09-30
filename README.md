@@ -1,6 +1,48 @@
+🔥  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2creeeeping.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=creeeeping%20&desc=Jin%20Su%20Kim&color=auto)
 
-🔥  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2creeeeping.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
+<h1>😀about me<h1>
+<hr>
+
+🐌 I will become a developer who grows slowly but steadily.<br>
+<br>
+🔥 Since I started late, I will work twice as hard as others.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+💻 Tech Stack
+<hr>
+<br>
+Language
+<br>
+<br>
+<br>
+Library
+<br>
+<br>
+<br>
+Framework
+<br>
+<br>
+<br>
+ETC
+<br>
+<br>
+<br>
+<br>
+<br>
+👨‍💻👩‍💻Github Stats
+<hr>
+
+
+
+
 <!--
 **creeeeeeeeeeeeeping-source/creeeeeeeeeeeeeping-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
