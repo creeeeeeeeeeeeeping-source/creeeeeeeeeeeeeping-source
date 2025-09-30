@@ -13,13 +13,14 @@
 <br>
 🔥 Since I started late, I will work twice as hard as others.<br>
 <br>
-<br>
+✨If you don't lose your beginner's mind, anything is possible.<br>
 <br>
 <br>
 <br>
 <br>
 💻 Tech Stack
 <hr>
+<br>
 I haven't started yet, but I'll fill it up soon.
 <br>
 <br>
