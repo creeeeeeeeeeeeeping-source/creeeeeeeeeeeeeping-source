@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=creeeeping%20&desc=Jin%20Su%20Kim&color=auto)
 
 
-<h1>😀about me<h1>
+<h1>😀About me<h1>
 <hr>
 
 🐌 I will become a developer who grows slowly but steadily.<br>
