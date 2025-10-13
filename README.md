@@ -44,7 +44,6 @@ ETC
 <br>
 <br>
 
-👨‍💻👩‍💻Github Stats
 
 <hr>
 
