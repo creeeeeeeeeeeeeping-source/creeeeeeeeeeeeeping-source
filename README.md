@@ -18,26 +18,27 @@
 <br>
 <br>
 <br>
-💻 Tech Stack
 <hr>
 <br>
 I haven't started yet, but I'll fill it up soon.
 <br>
 <br>
 <br>
-Language
+<br>
+Stacks
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 <br>
 <br>
 <br>
-Library
 <br>
 <br>
 <br>
-Framework
 <br>
 <br>
-<br>
-ETC
 <br>
 <br>
 <br>
